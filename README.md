@@ -1,6 +1,6 @@
 # Graphql Mongo 
 
-# Run the project locally:
+## Run the project locally:
 
 ## Method 1 - Run mongo on docker
 ### Pre-requisites: make, node and docker installed
